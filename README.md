@@ -29,7 +29,7 @@ The model successfully partitioned the customers into **5 well-defined segments*
 
 ---
 
-## 🚀 Technologies Used
+## 🚀 Frameworks Used
 * Python 3
 * Pandas & NumPy
 * Scikit-Learn
